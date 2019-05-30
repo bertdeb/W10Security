@@ -37,10 +37,10 @@
 		.st23 {fill:#ffffff;font-family:Segoe UI Semilight;font-size:0.833336em}
 		.st24 {fill:#8497b0;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st25 {fill:#505050;font-family:Segoe UI Semilight;font-size:1.00001em;font-weight:bold}
-		.st26 {marker-end:url(#mrkr13-260);stroke:#a5a5a5;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st26 {marker-end:url(#mrkr13-255);stroke:#a5a5a5;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st27 {fill:#a5a5a5;fill-opacity:1;stroke:#a5a5a5;stroke-opacity:1;stroke-width:0.58139534883721}
 		.st28 {fill:#505050;font-family:Calibri;font-size:0.833336em;font-weight:bold}
-		.st29 {marker-end:url(#mrkr13-268);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st29 {marker-end:url(#mrkr13-263);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st30 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.58139534883721}
 		.st31 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
@@ -58,11 +58,11 @@
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend13" transform="scale(-1.84,-1.84) "/>
 		</marker>
-		<marker id="mrkr13-260" class="st27" v:arrowType="13" v:arrowSize="0" v:setback="5.16" refX="-5.16" orient="auto"
+		<marker id="mrkr13-255" class="st27" v:arrowType="13" v:arrowSize="0" v:setback="5.16" refX="-5.16" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend13" transform="scale(-1.72,-1.72) "/>
 		</marker>
-		<marker id="mrkr13-268" class="st30" v:arrowType="13" v:arrowSize="0" v:setback="5.16" refX="-5.16" orient="auto"
+		<marker id="mrkr13-263" class="st30" v:arrowType="13" v:arrowSize="0" v:setback="5.16" refX="-5.16" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend13" transform="scale(-1.72,-1.72) "/>
 		</marker>
@@ -2569,466 +2569,464 @@
 						IiItIrLDFERERERKRXWGKIiIiIiEivsMQQEREREZFeYYkhIiIiIiI9AvwfjIGilhYyLZIAAAAASUVORK5CYII="/>
 			<rect v:rectContext="foreign" x="0" y="220.276" width="612.75" height="375" class="st1"/>
 		</g>
-		<g id="shape1240-136" v:mID="1240" v:groupContext="shape" v:layerMember="3" transform="translate(137.406,-434.058)">
+		<g id="shape1240-136" v:mID="1240" v:groupContext="shape" v:layerMember="3" transform="translate(51.0236,-470.044)">
 			<title>Sheet.1240</title>
 			<desc>Windows 10 Security on Modern Devices</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="298.701" cy="566.797" width="597.41" height="56.9579"/>
-			<rect x="0" y="538.318" width="597.402" height="56.9579" class="st1"/>
-			<text x="30.92" y="576.03" class="st20" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows 10<tspan
+			<v:textRect cx="378.425" cy="559.195" width="756.86" height="72.1602"/>
+			<rect x="0" y="523.115" width="756.85" height="72.1602" class="st1"/>
+			<text x="110.64" y="568.43" class="st20" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows 10<tspan
 						class="st21"> </tspan><tspan class="st22">Security on</tspan><tspan class="st21"> </tspan>Modern Devices</text>		</g>
 		<a xlink:href="https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-vbs"
 				xlink:title="Virtualization-based Security (VBS)">
-			<g id="shape1241-142" v:mID="1241" v:groupContext="shape" v:layerMember="3" transform="translate(147.864,-399.308)">
+			<g id="shape1241-142" v:mID="1241" v:groupContext="shape" v:layerMember="3" transform="translate(64.2731,-426.02)">
 				<title>Sheet.1241</title>
 				<desc>Virtualization Based Security</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="56.0472" cy="580.703" width="112.1" height="29.1445"/>
-				<rect x="0" y="566.131" width="112.094" height="29.1445" class="st2"/>
-				<text x="13.83" y="577.7" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Virtualization Based <tspan
-							x="39.15" dy="1.2em" class="st5">Security</tspan></text>			</g>
+				<v:textRect cx="71.0064" cy="576.814" width="142.02" height="36.9233"/>
+				<rect x="0" y="558.352" width="142.013" height="36.9233" class="st2"/>
+				<text x="10.52" y="579.81" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Virtualization Based Security</text>			</g>
 		</a>
 		<a xlink:href="https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot"
 				xlink:title="Secure boot">
-			<g id="shape1242-146" v:mID="1242" v:groupContext="shape" v:layerMember="3" transform="translate(147.864,-374.648)">
+			<g id="shape1242-145" v:mID="1242" v:groupContext="shape" v:layerMember="3" transform="translate(64.2731,-394.777)">
 				<title>Sheet.1242</title>
 				<desc>UEFI Secure Boot</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="56.0472" cy="584.066" width="112.1" height="22.4189"/>
-				<rect x="0" y="572.857" width="112.094" height="22.4189" class="st2"/>
-				<text x="19.3" y="587.07" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>UEFI Secure Boot</text>			</g>
+				<v:textRect cx="71.0064" cy="581.074" width="142.02" height="28.4026"/>
+				<rect x="0" y="566.873" width="142.013" height="28.4026" class="st2"/>
+				<text x="34.26" y="584.07" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>UEFI Secure Boot</text>			</g>
 		</a>
 		<a
 				xlink:href="https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/how-hardware-based-root-of-trust-helps-protect-windows"
 				xlink:title="Windows Defender System Guard: How a hardware-based root of trust helps protect Windows 10">
-			<g id="shape1243-149" v:mID="1243" v:groupContext="shape" v:layerMember="3" transform="translate(147.864,-341.575)">
+			<g id="shape1243-148" v:mID="1243" v:groupContext="shape" v:layerMember="3" transform="translate(64.2731,-352.877)">
 				<title>Sheet.1243</title>
 				<desc>Windows Defender System Guard</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="56.0472" cy="579.685" width="112.1" height="31.1811"/>
-				<rect x="0" y="564.094" width="112.094" height="31.1811" class="st24"/>
-				<text x="15.04" y="576.69" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Defender <tspan
-							x="26.16" dy="1.2em" class="st5">System Guard</tspan></text>			</g>
+				<v:textRect cx="71.0064" cy="575.524" width="142.02" height="39.5035"/>
+				<rect x="0" y="555.772" width="142.013" height="39.5035" class="st24"/>
+				<text x="13.32" y="572.52" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Defender System <tspan
+							x="57.8" dy="1.2em" class="st5">Guard</tspan></text>			</g>
 		</a>
 		<a xlink:href="https://docs.microsoft.com/en-us/windows/deployment/update/windows-update-overview"
 				xlink:title="Get started with Windows Update">
-			<g id="shape1244-153" v:mID="1244" v:groupContext="shape" v:layerMember="3" transform="translate(147.864,-312.996)">
+			<g id="shape1244-152" v:mID="1244" v:groupContext="shape" v:layerMember="3" transform="translate(64.2731,-316.67)">
 				<title>Sheet.1244</title>
 				<desc>Windows Update</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="56.0472" cy="582.52" width="112.1" height="25.5118"/>
-				<rect x="0" y="569.764" width="112.094" height="25.5118" class="st7"/>
-				<text x="19.23" y="585.52" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Update</text>			</g>
+				<v:textRect cx="71.0064" cy="579.115" width="142.02" height="32.321"/>
+				<rect x="0" y="562.955" width="142.013" height="32.321" class="st7"/>
+				<text x="34.19" y="582.12" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Update</text>			</g>
 		</a>
 		<a
 				xlink:href="https://docs.microsoft.com/en-us/windows/security/information-protection/tpm/trusted-platform-module-overview"
 				xlink:title="Trusted Platform Module Technology Overview">
-			<g id="shape1245-156" v:mID="1245" v:groupContext="shape" v:layerMember="3" transform="translate(147.864,-272.642)">
+			<g id="shape1245-155" v:mID="1245" v:groupContext="shape" v:layerMember="3" transform="translate(64.2731,-265.545)">
 				<title>Sheet.1245</title>
 				<desc>Trusted Platform Module</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="56.0472" cy="576.22" width="112.1" height="38.1121"/>
-				<rect x="0" y="557.164" width="112.094" height="38.1121" class="st7"/>
-				<text x="20.37" y="573.22" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Trusted Platform <tspan
-							x="39.54" dy="1.2em" class="st5">Module</tspan></text>			</g>
+				<v:textRect cx="71.0064" cy="571.133" width="142.02" height="48.2843"/>
+				<rect x="0" y="546.991" width="142.013" height="48.2843" class="st7"/>
+				<text x="17.46" y="574.13" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Trusted Platform Module</text>			</g>
 		</a>
 		<a xlink:href="http://collaboration-img.forces.mil.ca/sites/DIMEI/DIMEI3/EP/SitePages/W10%20Device%20Protection.aspx">
-			<g id="shape1246-160" v:mID="1246" v:groupContext="shape" v:layerMember="3" transform="translate(147.864,-153.822)">
+			<g id="shape1246-158" v:mID="1246" v:groupContext="shape" v:layerMember="3" transform="translate(64.2731,-115.012)">
 				<title>Sheet.1246</title>
 				<desc>Device protection</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="56.0472" cy="536.987" width="112.1" height="116.578"/>
-				<rect x="0" y="478.697" width="112.094" height="116.578" class="st8"/>
-				<text x="38.89" y="562.19" class="st25" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/>Device <v:lf/><tspan
-							x="29.41" dy="1.2em" class="st5">protection</tspan></text>			</g>
+				<v:textRect cx="71.0064" cy="521.429" width="142.02" height="147.693"/>
+				<rect x="0" y="447.582" width="142.013" height="147.693" class="st8"/>
+				<text x="53.85" y="546.63" class="st25" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/>Device <v:lf/><tspan
+							x="44.37" dy="1.2em" class="st5">protection</tspan></text>			</g>
 		</a>
 		<a
 				xlink:href="https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-exploit-guard/windows-defender-exploit-guard"
 				xlink:title="Windows Defender Exploit Guard">
-			<g id="shape1247-164" v:mID="1247" v:groupContext="shape" v:layerMember="3" transform="translate(271.168,-392.196)">
+			<g id="shape1247-162" v:mID="1247" v:groupContext="shape" v:layerMember="3" transform="translate(220.487,-417.009)">
 				<title>Sheet.1247</title>
 				<desc>Windows Defender Exploit Guard</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.6844" cy="581.824" width="105.37" height="26.9026"/>
-				<rect x="0" y="568.373" width="105.369" height="26.9026" class="st2"/>
-				<text x="11.67" y="578.82" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Defender <tspan
-							x="23.83" dy="1.2em" class="st5">Exploit Guard</tspan></text>			</g>
+				<v:textRect cx="66.746" cy="578.234" width="133.5" height="34.0831"/>
+				<rect x="0" y="561.193" width="133.492" height="34.0831" class="st2"/>
+				<text x="10.09" y="575.23" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Defender Exploit <tspan
+							x="53.54" dy="1.2em" class="st5">Guard</tspan></text>			</g>
 		</a>
 		<a
 				xlink:href="https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/windows-defender-application-control"
 				xlink:title="Windows Defender Application Control">
-			<g id="shape1248-168" v:mID="1248" v:groupContext="shape" v:layerMember="3" transform="translate(271.168,-360.809)">
+			<g id="shape1248-166" v:mID="1248" v:groupContext="shape" v:layerMember="3" transform="translate(220.487,-377.245)">
 				<title>Sheet.1248</title>
 				<desc>Windows Defender Application Control</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.6844" cy="580.703" width="105.37" height="29.1445"/>
-				<rect x="0" y="566.131" width="105.369" height="29.1445" class="st2"/>
-				<text x="11.67" y="577.7" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Defender <tspan
-							x="11.08" dy="1.2em" class="st5">Application Control</tspan></text>			</g>
+				<v:textRect cx="66.746" cy="576.814" width="133.5" height="36.9233"/>
+				<rect x="0" y="558.352" width="133.492" height="36.9233" class="st2"/>
+				<text x="25.74" y="573.81" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Defender <tspan
+							x="25.14" dy="1.2em" class="st5">Application Control</tspan></text>			</g>
 		</a>
 		<a xlink:href="https://docs.microsoft.com/en-us/microsoft-edge/deploy/group-policies/security-privacy-management-gp"
 				xlink:title="Security and privacy">
-			<g id="shape1249-172" v:mID="1249" v:groupContext="shape" v:layerMember="3" transform="translate(271.168,-342.425)">
+			<g id="shape1249-170" v:mID="1249" v:groupContext="shape" v:layerMember="3" transform="translate(220.487,-353.954)">
 				<title>Sheet.1249</title>
 				<desc>Microsoft Edge</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.6844" cy="587.204" width="105.37" height="16.1423"/>
-				<rect x="0" y="579.133" width="105.369" height="16.1423" class="st24"/>
-				<text x="20.26" y="590.2" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Microsoft Edge</text>			</g>
+				<v:textRect cx="66.746" cy="585.05" width="133.5" height="20.4507"/>
+				<rect x="0" y="574.825" width="133.492" height="20.4507" class="st24"/>
+				<text x="34.32" y="588.05" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Microsoft Edge</text>			</g>
 		</a>
 		<a
 				xlink:href="https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/windows-defender-antivirus-in-windows-10"
 				xlink:title="Windows Defender Antivirus in Windows 10 and Windows Server 2016">
-			<g id="shape1250-175" v:mID="1250" v:groupContext="shape" v:layerMember="3" transform="translate(271.168,-312.996)">
+			<g id="shape1250-173" v:mID="1250" v:groupContext="shape" v:layerMember="3" transform="translate(220.487,-316.67)">
 				<title>Sheet.1250</title>
 				<desc>Windows Defender Antivirus</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.6844" cy="581.824" width="105.37" height="26.9026"/>
-				<rect x="0" y="568.373" width="105.369" height="26.9026" class="st24"/>
-				<text x="11.67" y="578.82" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Defender <tspan
-							x="34.12" dy="1.2em" class="st5">Antivirus</tspan></text>			</g>
+				<v:textRect cx="66.746" cy="578.234" width="133.5" height="34.0831"/>
+				<rect x="0" y="561.193" width="133.492" height="34.0831" class="st24"/>
+				<text x="5.8" y="581.23" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Defender Antivirus</text>			</g>
 		</a>
 		<a
 				xlink:href="https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/windows-firewall-with-advanced-security"
 				xlink:title="Windows Defender Firewall with Advanced Security">
-			<g id="shape1251-179" v:mID="1251" v:groupContext="shape" v:layerMember="3" transform="translate(271.168,-295.061)">
+			<g id="shape1251-176" v:mID="1251" v:groupContext="shape" v:layerMember="3" transform="translate(220.487,-293.948)">
 				<title>Sheet.1251</title>
 				<desc>Windows Firewall</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.6844" cy="587.429" width="105.37" height="15.6932"/>
-				<rect x="0" y="579.582" width="105.369" height="15.6932" class="st7"/>
-				<text x="15.6" y="590.43" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Firewall</text>			</g>
+				<v:textRect cx="66.746" cy="585.335" width="133.5" height="19.8818"/>
+				<rect x="0" y="575.394" width="133.492" height="19.8818" class="st7"/>
+				<text x="29.66" y="588.33" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Firewall</text>			</g>
 		</a>
 		<a
 				xlink:href="https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-smartscreen/windows-defender-smartscreen-overview"
 				xlink:title="Windows Defender SmartScreen">
-			<g id="shape1252-182" v:mID="1252" v:groupContext="shape" v:layerMember="3" transform="translate(271.168,-272.642)">
+			<g id="shape1252-179" v:mID="1252" v:groupContext="shape" v:layerMember="3" transform="translate(220.487,-265.545)">
 				<title>Sheet.1252</title>
 				<desc>SmartScreen</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.6844" cy="585.187" width="105.37" height="20.177"/>
-				<rect x="0" y="575.099" width="105.369" height="20.177" class="st7"/>
-				<text x="25.7" y="588.19" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>SmartScreen</text>			</g>
+				<v:textRect cx="66.746" cy="582.494" width="133.5" height="25.5623"/>
+				<rect x="0" y="569.713" width="133.492" height="25.5623" class="st7"/>
+				<text x="39.76" y="585.49" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>SmartScreen</text>			</g>
 		</a>
 		<a xlink:href="http://collaboration-img.forces.mil.ca/sites/DIMEI/DIMEI3/EP/SitePages/W10%20Threat%20Resistance.aspx">
-			<g id="shape1253-185" v:mID="1253" v:groupContext="shape" v:layerMember="3" transform="translate(271.168,-153.822)">
+			<g id="shape1253-182" v:mID="1253" v:groupContext="shape" v:layerMember="3" transform="translate(220.487,-115.012)">
 				<title>Sheet.1253</title>
 				<desc>Threat resistance</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.6844" cy="536.987" width="105.37" height="116.578"/>
-				<rect x="0" y="478.697" width="105.369" height="116.578" class="st8"/>
-				<text x="36.23" y="562.19" class="st25" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/>Threat <v:lf/><tspan
-							x="27.31" dy="1.2em" class="st5">resistance</tspan></text>			</g>
+				<v:textRect cx="66.746" cy="521.429" width="133.5" height="147.693"/>
+				<rect x="0" y="447.582" width="133.492" height="147.693" class="st8"/>
+				<text x="50.29" y="546.63" class="st25" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/>Threat <v:lf/><tspan
+							x="41.37" dy="1.2em" class="st5">resistance</tspan></text>			</g>
 		</a>
 		<a xlink:href="https://docs.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard"
 				xlink:title="Protect derived domain credentials with Windows Defender Credential Guard">
-			<g id="shape1254-189" v:mID="1254" v:groupContext="shape" v:layerMember="3" transform="translate(384.383,-353.35)">
+			<g id="shape1254-186" v:mID="1254" v:groupContext="shape" v:layerMember="3" transform="translate(363.92,-367.794)">
 				<title>Sheet.1254</title>
 				<desc>Windows Defender Credential Guard</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.6844" cy="580.703" width="105.37" height="29.1445"/>
-				<rect x="0" y="566.131" width="105.369" height="29.1445" class="st2"/>
-				<text x="11.67" y="577.7" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Defender <tspan
-							x="16.22" dy="1.2em" class="st5">Credential Guard</tspan></text>			</g>
+				<v:textRect cx="66.746" cy="576.814" width="133.5" height="36.9233"/>
+				<rect x="0" y="558.352" width="133.492" height="36.9233" class="st2"/>
+				<text x="25.74" y="573.81" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Defender <tspan
+							x="30.28" dy="1.2em" class="st5">Credential Guard</tspan></text>			</g>
 		</a>
 		<a
 				xlink:href="https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/windows-hello-companion-device-framework"
 				xlink:title="Windows Hello and Companion Device Framework">
-			<g id="shape1255-193" v:mID="1255" v:groupContext="shape" v:layerMember="3" transform="translate(384.383,-312.996)">
+			<g id="shape1255-190" v:mID="1255" v:groupContext="shape" v:layerMember="3" transform="translate(363.92,-316.67)">
 				<title>Sheet.1255</title>
 				<desc>Windows Hello Companion Devices</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.6844" cy="576.22" width="105.37" height="38.1121"/>
-				<rect x="0" y="557.164" width="105.369" height="38.1121" class="st24"/>
-				<text x="20.47" y="573.22" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Hello<v:lf/><tspan
-							x="9.96" dy="1.2em" class="st5">Companion Devices</tspan></text>			</g>
+				<v:textRect cx="66.746" cy="571.133" width="133.5" height="48.2843"/>
+				<rect x="0" y="546.991" width="133.492" height="48.2843" class="st24"/>
+				<text x="34.53" y="568.13" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Hello<v:lf/><tspan
+							x="24.03" dy="1.2em" class="st5">Companion Devices</tspan></text>			</g>
 		</a>
 		<a xlink:href="https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/windows-hello"
 				xlink:title="Windows Hello">
-			<g id="shape1256-197" v:mID="1256" v:groupContext="shape" v:layerMember="3" transform="translate(384.383,-272.642)">
+			<g id="shape1256-194" v:mID="1256" v:groupContext="shape" v:layerMember="3" transform="translate(363.92,-265.545)">
 				<title>Sheet.1256</title>
 				<desc>Windows Hello</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.6844" cy="576.22" width="105.37" height="38.1121"/>
-				<rect x="0" y="557.164" width="105.369" height="38.1121" class="st24"/>
-				<text x="20.47" y="579.22" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Hello</text>			</g>
+				<v:textRect cx="66.746" cy="571.133" width="133.5" height="48.2843"/>
+				<rect x="0" y="546.991" width="133.492" height="48.2843" class="st24"/>
+				<text x="34.53" y="574.13" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Hello</text>			</g>
 		</a>
 		<a xlink:href="http://collaboration-img.forces.mil.ca/sites/DIMEI/DIMEI3/EP/SitePages/W10%20Identity%20Protection.aspx">
-			<g id="shape1257-200" v:mID="1257" v:groupContext="shape" v:layerMember="3" transform="translate(384.383,-153.822)">
+			<g id="shape1257-197" v:mID="1257" v:groupContext="shape" v:layerMember="3" transform="translate(363.92,-115.012)">
 				<title>Sheet.1257</title>
 				<desc>Identity protection</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.6844" cy="536.987" width="105.37" height="116.578"/>
-				<rect x="0" y="478.697" width="105.369" height="116.578" class="st8"/>
-				<text x="33.38" y="562.19" class="st25" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/>Identity<v:lf/><tspan
-							x="26.04" dy="1.2em" class="st5">protection</tspan></text>			</g>
+				<v:textRect cx="66.746" cy="521.429" width="133.5" height="147.693"/>
+				<rect x="0" y="447.582" width="133.492" height="147.693" class="st8"/>
+				<text x="47.45" y="546.63" class="st25" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/>Identity<v:lf/><tspan
+							x="40.11" dy="1.2em" class="st5">protection</tspan></text>			</g>
 		</a>
 		<a
 				xlink:href="https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-device-encryption-overview-windows-10"
 				xlink:title="Overview of BitLocker Device Encryption in Windows 10">
-			<g id="shape1258-204" v:mID="1258" v:groupContext="shape" v:layerMember="3" transform="translate(497.598,-384.736)">
+			<g id="shape1258-201" v:mID="1258" v:groupContext="shape" v:layerMember="3" transform="translate(507.353,-407.558)">
 				<title>Sheet.1258</title>
 				<desc>Device Encryption</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="53.8053" cy="582.945" width="107.62" height="24.6608"/>
-				<rect x="0" y="570.615" width="107.611" height="24.6608" class="st2"/>
-				<text x="15.39" y="585.95" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Device Encryption</text>			</g>
+				<v:textRect cx="68.1661" cy="579.654" width="136.34" height="31.2428"/>
+				<rect x="0" y="564.033" width="136.332" height="31.2428" class="st2"/>
+				<text x="29.75" y="582.65" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Device Encryption</text>			</g>
 		</a>
 		<a
 				xlink:href="https://docs.microsoft.com/en-us/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip"
 				xlink:title="Protect your enterprise data using Windows Information Protection (WIP)">
-			<g id="shape1259-207" v:mID="1259" v:groupContext="shape" v:layerMember="3" transform="translate(497.598,-353.35)">
+			<g id="shape1259-204" v:mID="1259" v:groupContext="shape" v:layerMember="3" transform="translate(507.353,-367.794)">
 				<title>Sheet.1259</title>
 				<desc>Windows Information Protection</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="53.8053" cy="580.703" width="107.62" height="29.1445"/>
-				<rect x="0" y="566.131" width="107.611" height="29.1445" class="st24"/>
-				<text x="7.67" y="577.7" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Information <tspan
-							x="31.74" dy="1.2em" class="st5">Protection</tspan></text>			</g>
+				<v:textRect cx="68.1661" cy="576.814" width="136.34" height="36.9233"/>
+				<rect x="0" y="558.352" width="136.332" height="36.9233" class="st24"/>
+				<text x="22.03" y="573.81" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Information <tspan
+							x="46.1" dy="1.2em" class="st5">Protection</tspan></text>			</g>
 		</a>
 		<a xlink:href="https://docs.microsoft.com/en-us/microsoft-desktop-optimization-pack/mbam-v25/about-mbam-25-sp1"
 				xlink:title="About MBAM 2.5 SP1">
-			<g id="shape1260-211" v:mID="1260" v:groupContext="shape" v:layerMember="3" transform="translate(497.598,-312.996)">
+			<g id="shape1260-208" v:mID="1260" v:groupContext="shape" v:layerMember="3" transform="translate(507.353,-316.67)">
 				<title>Sheet.1260</title>
 				<desc>BitLocker Admin and Monitoring</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="53.8053" cy="576.22" width="107.62" height="38.1121"/>
-				<rect x="0" y="557.164" width="107.611" height="38.1121" class="st7"/>
-				<text x="9.24" y="573.22" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>BitLocker Admin and <tspan
-							x="29.85" dy="1.2em" class="st5">Monitoring</tspan></text>			</g>
+				<v:textRect cx="68.1661" cy="571.133" width="136.34" height="48.2843"/>
+				<rect x="0" y="546.991" width="136.332" height="48.2843" class="st7"/>
+				<text x="23.61" y="568.13" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>BitLocker Admin and <tspan
+							x="44.21" dy="1.2em" class="st5">Monitoring</tspan></text>			</g>
 		</a>
 		<a xlink:href="https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview"
 				xlink:title="BitLocker">
-			<g id="shape1261-215" v:mID="1261" v:groupContext="shape" v:layerMember="3" transform="translate(497.598,-290.577)">
+			<g id="shape1261-212" v:mID="1261" v:groupContext="shape" v:layerMember="3" transform="translate(507.353,-288.267)">
 				<title>Sheet.1261</title>
 				<desc>BitLocker</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="53.8053" cy="585.187" width="107.62" height="20.177"/>
-				<rect x="0" y="575.099" width="107.611" height="20.177" class="st7"/>
-				<text x="34.24" y="588.19" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>BitLocker</text>			</g>
+				<v:textRect cx="68.1661" cy="582.494" width="136.34" height="25.5623"/>
+				<rect x="0" y="569.713" width="136.332" height="25.5623" class="st7"/>
+				<text x="48.6" y="585.49" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>BitLocker</text>			</g>
 		</a>
 		<a xlink:href="https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-to-go-faq"
 				xlink:title="BitLocker To Go FAQ">
-			<g id="shape1262-218" v:mID="1262" v:groupContext="shape" v:layerMember="3" transform="translate(497.598,-272.642)">
+			<g id="shape1262-215" v:mID="1262" v:groupContext="shape" v:layerMember="3" transform="translate(507.353,-265.545)">
 				<title>Sheet.1262</title>
 				<desc>BitLocker to Go</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="53.8053" cy="587.429" width="107.62" height="15.6932"/>
-				<rect x="0" y="579.582" width="107.611" height="15.6932" class="st7"/>
-				<text x="20.8" y="590.43" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>BitLocker to Go</text>			</g>
+				<v:textRect cx="68.1661" cy="585.335" width="136.34" height="19.8818"/>
+				<rect x="0" y="575.394" width="136.332" height="19.8818" class="st7"/>
+				<text x="35.16" y="588.33" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>BitLocker to Go</text>			</g>
 		</a>
 		<a xlink:href="http://collaboration-img.forces.mil.ca/sites/DIMEI/DIMEI3/EP/SitePages/W10%20Information%20Protection.aspx">
-			<g id="shape1263-221" v:mID="1263" v:groupContext="shape" v:layerMember="3" transform="translate(497.598,-153.822)">
+			<g id="shape1263-218" v:mID="1263" v:groupContext="shape" v:layerMember="3" transform="translate(507.353,-115.012)">
 				<title>Sheet.1263</title>
 				<desc>Information protection</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="53.8053" cy="536.987" width="107.62" height="116.578"/>
-				<rect x="0" y="478.697" width="107.611" height="116.578" class="st8"/>
-				<text x="23.71" y="562.19" class="st25" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/>Information<v:lf/><tspan
-							x="27.17" dy="1.2em" class="st5">protection</tspan></text>			</g>
+				<v:textRect cx="68.1661" cy="521.429" width="136.34" height="147.693"/>
+				<rect x="0" y="447.582" width="136.332" height="147.693" class="st8"/>
+				<text x="38.07" y="546.63" class="st25" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/>Information<v:lf/><tspan
+							x="41.53" dy="1.2em" class="st5">protection</tspan></text>			</g>
 		</a>
 		<a
 				xlink:href="https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/high-availability-and-business-continuity"
 				xlink:title="High Availability and Business Continuity">
-			<g id="shape1265-225" v:mID="1265" v:groupContext="shape" v:layerMember="3" transform="translate(614.176,-312.996)">
+			<g id="shape1265-222" v:mID="1265" v:groupContext="shape" v:layerMember="3" transform="translate(655.046,-316.67)">
 				<title>Sheet.1265</title>
 				<desc>Disaster Recovery OneDrive for Business Restore</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.6844" cy="576.22" width="105.37" height="38.1121"/>
-				<rect x="0" y="557.164" width="105.369" height="38.1121" class="st24"/>
-				<text x="14.83" y="567.22" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Disaster Recovery <tspan
-							x="5.58" dy="1.2em" class="st5">OneDrive for Business </tspan><tspan x="36.48" dy="1.2em" class="st5">Restore</tspan></text>			</g>
+				<v:textRect cx="66.746" cy="571.133" width="133.5" height="48.2843"/>
+				<rect x="0" y="546.991" width="133.492" height="48.2843" class="st24"/>
+				<text x="7.26" y="568.13" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Disaster Recovery OneDrive <tspan
+							x="23.69" dy="1.2em" class="st5">for Business Restore</tspan></text>			</g>
 		</a>
 		<a
 				xlink:href="https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection"
 				xlink:title="Microsoft Defender Advanced Threat Protection">
-			<g id="shape1266-230" v:mID="1266" v:groupContext="shape" v:layerMember="3" transform="translate(614.176,-272.642)">
+			<g id="shape1266-226" v:mID="1266" v:groupContext="shape" v:layerMember="3" transform="translate(655.046,-265.545)">
 				<title>Sheet.1266</title>
 				<desc>Windows Defender Advanced Threat Protection</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.6844" cy="576.22" width="105.37" height="38.1121"/>
-				<rect x="0" y="557.164" width="105.369" height="38.1121" class="st24"/>
-				<text x="11.67" y="567.22" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Defender <tspan
-							x="16.28" dy="1.2em" class="st5">Advanced Threat </tspan><tspan x="30.62" dy="1.2em" class="st5">Protection</tspan></text>			</g>
+				<v:textRect cx="66.746" cy="571.133" width="133.5" height="48.2843"/>
+				<rect x="0" y="546.991" width="133.492" height="48.2843" class="st24"/>
+				<text x="25.74" y="568.13" class="st23" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>Windows Defender <tspan
+							x="6.9" dy="1.2em" class="st5">Advanced Threat Protection</tspan></text>			</g>
 		</a>
 		<a xlink:href="http://collaboration-img.forces.mil.ca/sites/DIMEI/DIMEI3/EP/SitePages/W10%20Breach%20DIR.aspx">
-			<g id="shape1267-235" v:mID="1267" v:groupContext="shape" v:layerMember="3" transform="translate(614.176,-153.822)">
+			<g id="shape1267-230" v:mID="1267" v:groupContext="shape" v:layerMember="3" transform="translate(655.046,-115.012)">
 				<title>Sheet.1267</title>
 				<desc>Breach detection investigation &#38; response</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.6844" cy="536.987" width="105.37" height="116.578"/>
-				<rect x="0" y="478.697" width="105.369" height="116.578" class="st11"/>
-				<text x="9.28" y="554.99" class="st25" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/>Breach detection <tspan
-							x="14.14" dy="1.2em" class="st5">investigation </tspan>&#38; <tspan x="29.4" dy="1.2em" class="st5">response</tspan></text>			</g>
+				<v:textRect cx="66.746" cy="521.429" width="133.5" height="147.693"/>
+				<rect x="0" y="447.582" width="133.492" height="147.693" class="st11"/>
+				<text x="23.34" y="539.43" class="st25" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/>Breach detection <tspan
+							x="28.2" dy="1.2em" class="st5">investigation </tspan>&#38; <tspan x="43.47" dy="1.2em" class="st5">response</tspan></text>			</g>
 		</a>
-		<g id="group1268-240" transform="translate(175.506,-204.277)" v:mID="1268" v:groupContext="group" v:layerMember="3">
+		<g id="group1268-235" transform="translate(99.2926,-178.933)" v:mID="1268" v:groupContext="group" v:layerMember="3">
 			<title>Sheet.1268</title>
-			<g id="shape1269-241" v:mID="1269" v:groupContext="shape" v:layerMember="3">
+			<g id="shape1269-236" v:mID="1269" v:groupContext="shape" v:layerMember="3">
 				<title>path4533</title>
-				<path d="M25.42 594.98 C18.9 594.32 12.92 591.49 8.31 586.89 C4.36 582.93 1.85 578.32 0.65 572.75 C0.13 570.4 0 565.86
-							 0.37 563.35 C1.27 557.14 3.9 551.88 8.3 547.46 C12.56 543.2 18.09 540.42 24.05 539.55 C26.08 539.25
-							 29.9 539.25 31.92 539.55 C38 540.44 43.29 543.1 47.65 547.43 C52.49 552.23 55.29 558.34 55.81 565.23
-							 C56.81 578.35 48.02 590.7 35.28 594.1 C32.17 594.93 28.33 595.28 25.42 594.98 ZM38.59 581.5 L38.97 581.2
-							 L38.97 574.1 L38.97 566.99 L38.61 566.64 L38.25 566.28 L28.53 566.28 L18.8 566.28 L18.41 566.66 L18.03
-							 567.05 L18.03 574.07 L18.03 581.08 L18.39 581.44 L18.75 581.8 L28.47 581.8 C38.09 581.8 38.21 581.8
-							 38.59 581.5 ZM18.98 580.72 C18.78 580.42 18.75 579.56 18.79 573.92 C18.82 568.86 18.87 567.42 19.02
-							 567.27 C19.17 567.12 21.11 567.07 28.43 567.04 C37.51 567 37.65 567.01 37.94 567.3 C38.23 567.59 38.24
-							 567.77 38.24 574.01 C38.24 579.57 38.21 580.46 38.01 580.75 L37.79 581.07 L28.49 581.07 L19.2 581.07
-							 L18.98 580.72 ZM29.86 576.31 C29.88 576.07 29.81 575.41 29.69 574.85 C29.52 574.07 29.51 573.81 29.64
-							 573.76 C29.74 573.73 30.03 573.49 30.29 573.23 C31.06 572.46 30.9 571.32 29.9 570.48 C28.99 569.71 27.85
-							 569.79 26.96 570.67 C26.25 571.39 26.07 572.11 26.45 572.82 C26.6 573.09 26.75 573.31 26.8 573.31 C26.85
-							 573.31 27.04 573.44 27.23 573.6 L27.57 573.88 L27.32 575.13 C26.99 576.78 27.04 576.85 28.63 576.79
-							 L29.82 576.75 L29.86 576.31 ZM28.22 575.03 C28.54 573.55 28.51 573.42 27.77 572.9 C27.34 572.6 27.11
-							 572.33 27.11 572.12 C27.11 571.67 28.02 570.82 28.5 570.82 C28.97 570.82 29.89 571.67 29.89 572.11 C29.89
-							 572.38 29.41 572.88 28.78 573.24 C28.53 573.39 28.53 573.47 28.71 574.49 C28.82 575.09 28.94 575.66
-							 28.97 575.76 C29.02 575.89 28.88 575.94 28.53 575.94 L28.02 575.94 L28.22 575.03 ZM20.7 560.6 C20.76
-							 557.28 20.81 556.71 21.09 555.85 C21.86 553.43 23.8 551.65 26.43 550.95 C27.43 550.68 29.62 550.69 30.69
-							 550.97 C33.59 551.73 35.82 554.19 36.19 557.05 C36.26 557.65 36.33 559.55 36.33 561.26 L36.34 564.37
-							 L36.7 564.37 L37.07 564.37 L37.07 560.55 C37.07 556.26 36.97 555.57 36.12 554.04 C34.73 551.57 32.18
-							 550.07 29.07 549.91 C24.72 549.68 21.16 552.1 20.15 555.96 C19.98 556.62 19.93 557.68 19.93 560.59 L19.93
-							 564.37 L20.28 564.37 L20.63 564.37 L20.7 560.6 Z" class="st12"/>
+				<path d="M32.21 594.9 C23.94 594.07 16.36 590.48 10.53 584.65 C5.52 579.64 2.35 573.79 0.82 566.74 C0.17 563.76 0
+							 558.01 0.46 554.82 C1.61 546.96 4.94 540.3 10.52 534.7 C15.91 529.3 22.92 525.77 30.47 524.68 C33.05
+							 524.3 37.88 524.3 40.44 524.68 C48.14 525.81 54.85 529.17 60.37 534.65 C66.5 540.75 70.04 548.48 70.71
+							 557.22 C71.97 573.83 60.84 589.48 44.69 593.79 C40.75 594.84 35.89 595.28 32.21 594.9 ZM48.89 577.82
+							 L49.38 577.44 L49.38 568.44 L49.38 559.45 L48.92 558.99 L48.46 558.54 L36.14 558.54 L23.82 558.54 L23.33
+							 559.02 L22.84 559.51 L22.84 568.41 L22.84 577.3 L23.29 577.75 L23.75 578.21 L36.07 578.21 C48.26 578.21
+							 48.4 578.2 48.89 577.82 ZM24.04 576.84 C23.79 576.46 23.76 575.36 23.81 568.22 C23.85 561.81 23.91 559.99
+							 24.1 559.8 C24.29 559.61 26.74 559.55 36.02 559.51 C47.53 559.46 47.7 559.46 48.07 559.83 C48.44 560.2
+							 48.45 560.42 48.45 568.33 C48.45 575.38 48.41 576.51 48.16 576.87 L47.87 577.28 L36.1 577.28 L24.33
+							 577.28 L24.04 576.84 ZM37.83 571.25 C37.86 570.94 37.76 570.11 37.61 569.39 C37.4 568.41 37.39 568.07
+							 37.56 568.02 C37.68 567.98 38.05 567.67 38.38 567.34 C39.35 566.37 39.15 564.93 37.88 563.86 C36.72
+							 562.89 35.28 562.98 34.16 564.1 C33.25 565.01 33.03 565.93 33.51 566.82 C33.69 567.16 33.89 567.45 33.96
+							 567.45 C34.02 567.45 34.26 567.62 34.49 567.81 L34.92 568.17 L34.61 569.75 C34.19 571.85 34.26 571.93
+							 36.27 571.86 L37.78 571.8 L37.83 571.25 ZM35.75 569.62 C36.15 567.75 36.12 567.59 35.18 566.93 C34.64
+							 566.54 34.34 566.2 34.34 565.94 C34.34 565.37 35.5 564.29 36.11 564.29 C36.71 564.29 37.87 565.37 37.87
+							 565.92 C37.87 566.27 37.26 566.9 36.47 567.36 C36.15 567.55 36.14 567.66 36.37 568.94 C36.51 569.7 36.66
+							 570.42 36.71 570.55 C36.77 570.71 36.59 570.78 36.15 570.78 L35.5 570.78 L35.75 569.62 ZM26.22 551.34
+							 C26.31 547.14 26.36 546.42 26.71 545.33 C27.7 542.26 30.16 540.01 33.48 539.12 C34.76 538.78 37.53 538.8
+							 38.88 539.15 C42.56 540.11 45.38 543.23 45.85 546.84 C45.94 547.61 46.03 550.01 46.03 552.18 L46.04
+							 556.12 L46.5 556.12 L46.96 556.12 L46.96 551.28 C46.96 545.85 46.83 544.97 45.76 543.04 C44.01 539.9
+							 40.77 538 36.83 537.8 C31.32 537.51 26.81 540.57 25.53 545.46 C25.31 546.3 25.25 547.64 25.25 551.34
+							 L25.25 556.12 L25.69 556.12 L26.13 556.12 L26.22 551.34 Z" class="st12"/>
 			</g>
 		</g>
-		<g id="group1270-243" transform="translate(295.447,-204.277)" v:mID="1270" v:groupContext="group" v:layerMember="3">
+		<g id="group1270-238" transform="translate(251.246,-178.933)" v:mID="1270" v:groupContext="group" v:layerMember="3">
 			<title>Sheet.1270</title>
-			<g id="shape1271-244" v:mID="1271" v:groupContext="shape" v:layerMember="3">
+			<g id="shape1271-239" v:mID="1271" v:groupContext="shape" v:layerMember="3">
 				<title>path4554</title>
-				<path d="M25.42 594.98 C18.9 594.32 12.92 591.49 8.31 586.89 C4.36 582.93 1.85 578.32 0.65 572.75 C0.13 570.4 0 565.86
-							 0.37 563.35 C1.27 557.14 3.9 551.88 8.3 547.46 C12.56 543.2 18.09 540.42 24.05 539.55 C26.08 539.25
-							 29.9 539.25 31.92 539.55 C38 540.44 43.29 543.1 47.65 547.43 C52.49 552.23 55.29 558.34 55.81 565.23
-							 C56.81 578.35 48.02 590.7 35.28 594.1 C32.17 594.93 28.33 595.28 25.42 594.98 L25.42 594.98 ZM30.45
-							 582.72 C36.14 578.72 40.12 574.07 40.87 570.52 C40.99 569.96 41.03 567.6 41 562.54 L40.95 555.37 L40.35
-							 555.03 C39.52 554.58 37.93 554.19 35.59 553.87 C32.75 553.48 23.39 553.49 20.53 553.87 C18.19 554.19
-							 16.6 554.58 15.78 555.03 L15.17 555.37 L15.13 562.61 C15.09 570.77 15.08 570.68 16.18 572.88 C17.69
-							 575.9 20.83 579.21 25.06 582.25 C27.29 583.86 27.25 583.84 28.08 583.85 C28.78 583.85 28.93 583.78 30.45
-							 582.72 L30.45 582.72 ZM26.87 582.44 C24.59 580.89 22.82 579.43 20.87 577.49 C17.69 574.31 16.26 571.91
-							 15.96 569.22 C15.88 568.52 15.84 565.27 15.86 561.99 C15.91 555.12 15.73 555.8 17.59 555.31 C20.12 554.64
-							 22.81 554.41 28.14 554.41 C32.35 554.41 34.45 554.54 36.81 554.94 C38.38 555.2 39.91 555.66 40.14 555.94
-							 C40.27 556.09 40.3 557.88 40.26 563.01 C40.2 570.62 40.23 570.35 39.15 572.53 C37.78 575.32 34.45 578.75
-							 30.11 581.86 C29.14 582.55 28.25 583.12 28.11 583.12 C27.98 583.12 27.42 582.81 26.87 582.44 L26.87
-							 582.44 ZM30.54 578.22 C33.74 575.93 36.11 573.43 37.26 571.12 L37.87 569.89 L37.92 564.71 C37.97 558.57
-							 38.02 558.71 36.41 560.89 C34.72 563.19 24.56 573.18 22.68 574.4 C22.46 574.54 22.27 574.79 22.27 574.94
-							 C22.27 575.55 25.6 578.39 27.46 579.37 L28.17 579.75 L28.7 579.45 C28.99 579.29 29.82 578.73 30.54 578.22
-							 L30.54 578.22 ZM27.33 578.27 C26.37 577.67 24.37 576.1 23.81 575.51 L23.37 575.04 L23.96 574.58 C26.09
-							 572.88 33.72 565.46 35.72 563.13 C36.41 562.32 37.04 561.6 37.11 561.52 C37.18 561.43 37.21 563.03 37.18
-							 565.25 C37.14 568.92 37.11 569.18 36.79 570.01 C35.79 572.55 33.23 575.28 29.34 577.96 C28.73 578.38
-							 28.19 578.73 28.14 578.72 C28.1 578.72 27.73 578.52 27.33 578.27 L27.33 578.27 ZM22.21 571.38 C23.01
-							 570.72 25.39 568.46 27.49 566.36 C33.78 560.07 36.08 557.09 34.84 556.84 C34.65 556.8 33.29 556.69 31.8
-							 556.59 C26.02 556.22 20.73 556.75 18.72 557.9 L18.32 558.14 L18.32 563.73 C18.32 570.04 18.39 570.54
-							 19.42 571.89 C20.18 572.89 20.44 572.84 22.21 571.38 ZM20.02 571.15 C19.17 569.88 19.15 569.71 19.09
-							 563.98 L19.02 558.69 L19.87 558.37 C22.14 557.52 24.51 557.27 29.16 557.4 C32.83 557.49 33.99 557.58
-							 33.99 557.77 C33.99 557.83 33.42 558.59 32.71 559.47 C30.69 562 23.35 569.36 20.98 571.23 L20.38 571.71
-							 L20.02 571.15 Z" class="st12"/>
+				<path d="M32.21 594.9 C23.94 594.07 16.36 590.48 10.53 584.65 C5.52 579.64 2.35 573.79 0.82 566.74 C0.17 563.76 0
+							 558.01 0.46 554.82 C1.61 546.96 4.94 540.3 10.52 534.7 C15.91 529.3 22.92 525.77 30.47 524.68 C33.05
+							 524.3 37.88 524.3 40.44 524.68 C48.14 525.81 54.85 529.17 60.37 534.65 C66.5 540.75 70.04 548.48 70.71
+							 557.22 C71.97 573.83 60.84 589.48 44.69 593.79 C40.75 594.84 35.89 595.28 32.21 594.9 L32.21 594.9 ZM38.57
+							 579.37 C45.79 574.31 50.83 568.41 51.78 563.92 C51.93 563.2 51.98 560.21 51.94 553.81 L51.88 544.72
+							 L51.11 544.29 C50.07 543.72 48.06 543.23 45.09 542.82 C41.48 542.33 29.63 542.33 26.01 542.82 C23.04
+							 543.23 21.03 543.72 19.99 544.29 L19.22 544.72 L19.17 553.89 C19.12 564.23 19.1 564.12 20.49 566.9 C22.41
+							 570.72 26.39 574.93 31.75 578.78 C34.58 580.81 34.53 580.79 35.57 580.8 C36.47 580.8 36.65 580.72 38.57
+							 579.37 L38.57 579.37 ZM34.04 579.01 C31.15 577.05 28.91 575.2 26.45 572.74 C22.41 568.71 20.6 565.67
+							 20.22 562.27 C20.12 561.38 20.06 557.26 20.09 553.11 C20.15 544.4 19.93 545.26 22.28 544.64 C25.49 543.79
+							 28.9 543.5 35.66 543.5 C40.99 543.5 43.64 543.66 46.64 544.17 C48.63 544.5 50.56 545.09 50.85 545.44
+							 C51.01 545.64 51.05 547.89 51 554.39 C50.93 564.03 50.97 563.7 49.6 566.47 C47.86 570 43.65 574.34 38.15
+							 578.28 C36.92 579.16 35.78 579.87 35.62 579.88 C35.45 579.88 34.74 579.49 34.04 579.01 L34.04 579.01
+							 ZM38.7 573.66 C42.75 570.77 45.75 567.6 47.21 564.67 L47.98 563.11 L48.04 556.56 C48.1 548.77 48.17
+							 548.95 46.13 551.72 C43.99 554.62 31.12 567.28 28.73 568.83 C28.45 569.01 28.22 569.32 28.22 569.52
+							 C28.22 570.28 32.44 573.88 34.79 575.13 L35.69 575.61 L36.36 575.23 C36.73 575.02 37.78 574.32 38.7
+							 573.66 L38.7 573.66 ZM34.62 573.73 C33.4 572.96 30.87 570.98 30.17 570.23 L29.61 569.64 L30.35 569.05
+							 C33.06 566.91 42.72 557.51 45.26 554.55 C46.13 553.53 46.92 552.61 47.01 552.5 C47.1 552.4 47.15 554.43
+							 47.11 557.24 C47.05 561.89 47.02 562.22 46.61 563.27 C45.34 566.48 42.1 569.94 37.17 573.34 C36.4 573.87
+							 35.71 574.31 35.65 574.31 C35.6 574.31 35.13 574.04 34.62 573.73 L34.62 573.73 ZM28.14 565 C29.15 564.16
+							 32.16 561.3 34.83 558.64 C42.8 550.68 45.71 546.9 44.13 546.58 C43.9 546.53 42.17 546.39 40.28 546.27
+							 C32.97 545.79 26.27 546.46 23.72 547.93 L23.21 548.22 L23.21 555.31 C23.21 563.3 23.29 563.93 24.61
+							 565.65 C25.57 566.91 25.89 566.85 28.14 565 ZM25.36 564.72 C24.29 563.1 24.26 562.89 24.18 555.63 L24.1
+							 548.93 L25.18 548.52 C28.05 547.45 31.06 547.13 36.94 547.29 C41.59 547.41 43.07 547.52 43.07 547.76
+							 C43.07 547.83 42.34 548.8 41.44 549.92 C38.89 553.11 29.59 562.44 26.59 564.82 L25.82 565.42 L25.36
+							 564.72 Z" class="st12"/>
 			</g>
 		</g>
-		<g id="group1272-246" transform="translate(408.872,-204.277)" v:mID="1272" v:groupContext="group" v:layerMember="3">
+		<g id="group1272-241" transform="translate(394.945,-178.933)" v:mID="1272" v:groupContext="group" v:layerMember="3">
 			<title>Sheet.1272</title>
-			<g id="shape1273-247" v:mID="1273" v:groupContext="shape" v:layerMember="3">
+			<g id="shape1273-242" v:mID="1273" v:groupContext="shape" v:layerMember="3">
 				<title>path4575</title>
-				<path d="M25.36 594.5 C18.95 593.89 12.88 591.01 8.27 586.4 C4.36 582.48 1.84 577.84 0.64 572.34 C0.13 569.96 0 565.54
-							 0.37 562.92 C2.03 551.24 10.77 541.99 22.51 539.47 C24.21 539.1 24.58 539.08 27.99 539.08 C31.4 539.08
-							 31.76 539.1 33.47 539.47 C39.05 540.66 43.79 543.22 47.71 547.13 C53.45 552.87 56.39 560.68 55.82 568.69
-							 C55.33 575.58 52.52 581.64 47.56 586.55 C41.71 592.34 33.51 595.28 25.36 594.5 ZM39.04 579.76 C42.12
-							 579.45 43.96 578.9 44.93 578 C45.52 577.45 45.52 577.44 45.52 576.36 C45.52 575.35 45.48 575.22 44.97
-							 574.45 C43.77 572.64 40.77 571.02 37.21 570.25 C35.51 569.88 35.03 568.9 35.99 567.78 C36.77 566.86
-							 37.81 564.73 38.14 563.39 C38.48 561.94 38.53 559.52 38.23 558.28 C37.53 555.39 35.52 553.76 32.66 553.76
-							 C30.3 553.76 28.42 554.98 27.52 557.08 C26.63 559.17 26.71 562.44 27.72 564.96 C28.1 565.9 29.16 567.66
-							 29.4 567.76 C29.47 567.78 29.63 568 29.75 568.24 C29.93 568.59 29.95 568.77 29.81 569.18 C29.62 569.76
-							 29.23 570 28.06 570.26 C23.47 571.27 19.96 573.71 19.76 576.03 C19.72 576.5 19.77 577.02 19.88 577.28
-							 C20.41 578.55 22.44 579.36 26.1 579.75 C27.79 579.92 37.27 579.93 39.04 579.76 L39.04 579.76 ZM28.79
-							 579.07 C27.09 579.02 24.84 578.76 23.6 578.49 C20.87 577.88 19.98 576.67 21.06 575.03 C22.19 573.33
-							 24.8 571.91 28.28 571.11 C29.79 570.76 30.41 570.29 30.68 569.3 C30.88 568.53 30.7 567.94 30.03 567.16
-							 C29.31 566.32 28.28 564.14 28 562.86 C27.72 561.57 27.7 559.49 27.97 558.48 C28.66 555.89 30.43 554.53
-							 32.96 554.66 C34.4 554.73 35.28 555.14 36.18 556.13 C37.12 557.17 37.45 558.16 37.53 560.14 C37.64 563.11
-							 37.09 564.72 35 567.62 C34.34 568.52 34.61 570 35.54 570.61 C35.73 570.74 36.34 570.94 36.9 571.07 C41.13
-							 572.03 44.15 573.91 44.71 575.93 C44.98 576.9 44.3 577.69 42.76 578.21 C40.54 578.97 35.31 579.29 28.79
-							 579.07 L28.79 579.07 ZM18.93 573.99 C18.93 573.72 18.8 573.69 17.18 573.59 C11.85 573.28 10.37 572.43
-							 12.03 570.64 C12.37 570.28 13.04 569.74 13.52 569.46 C14.45 568.91 16.42 568.22 17.05 568.22 C17.3 568.22
-							 17.63 568.01 18 567.65 C18.75 566.9 18.77 566.29 18.07 565.24 C16.8 563.31 16.31 561.82 16.4 560.19
-							 C16.48 558.89 16.82 558.14 17.66 557.38 C18.42 556.69 19.11 556.47 20.27 556.57 C21.42 556.66 22.19
-							 557.13 22.81 558.1 C23.9 559.81 23.75 561.77 22.36 564.2 C21.42 565.85 21.21 566.36 21.3 566.8 C21.46
-							 567.63 22 567.98 24.46 568.79 C26.8 569.57 27.13 569.6 27.01 569 C26.98 568.79 26.44 568.55 24.78 567.98
-							 C21.9 566.99 21.78 566.84 22.69 565.48 C23.34 564.52 24.07 562.83 24.27 561.82 C24.7 559.59 23.95 557.42
-							 22.39 556.38 C21.51 555.8 20.75 555.61 19.59 555.68 C17.24 555.82 15.68 557.52 15.52 560.09 C15.42 561.93
-							 15.94 563.64 17.19 565.52 C17.65 566.22 17.71 566.41 17.6 566.73 C17.5 567.03 17.3 567.17 16.81 567.31
-							 C13.3 568.31 11.94 569.06 10.96 570.54 C10.31 571.51 10.35 572.31 11.08 573.04 C12 573.96 13.74 574.33
-							 16.96 574.3 C18.82 574.28 18.93 574.27 18.93 573.99 L18.93 573.99 Z" class="st13"/>
+				<path d="M32.13 594.29 C24.01 593.52 16.32 589.87 10.48 584.03 C5.52 579.07 2.33 573.18 0.82 566.22 C0.16 563.2 0
+							 557.61 0.47 554.29 C2.57 539.49 13.64 527.76 28.51 524.57 C30.68 524.11 31.14 524.08 35.46 524.08 C39.78
+							 524.08 40.24 524.11 42.4 524.57 C49.47 526.09 55.47 529.32 60.44 534.28 C67.72 541.56 71.44 551.45 70.72
+							 561.6 C70.09 570.32 66.54 578 60.25 584.23 C52.84 591.56 42.46 595.28 32.13 594.29 ZM49.46 575.61 C53.36
+							 575.23 55.69 574.53 56.92 573.38 C57.67 572.69 57.67 572.68 57.67 571.31 C57.67 570.03 57.62 569.87
+							 56.97 568.89 C55.45 566.6 51.65 564.54 47.14 563.57 C44.98 563.1 44.38 561.86 45.6 560.44 C46.59 559.28
+							 47.91 556.58 48.32 554.87 C48.76 553.04 48.81 549.98 48.43 548.41 C47.55 544.74 45 542.67 41.38 542.67
+							 C38.39 542.67 36 544.22 34.86 546.88 C33.74 549.53 33.84 553.67 35.12 556.87 C35.6 558.06 36.94 560.29
+							 37.24 560.41 C37.33 560.44 37.54 560.72 37.69 561.02 C37.92 561.47 37.94 561.69 37.77 562.21 C37.53
+							 562.94 37.03 563.25 35.55 563.58 C29.73 564.86 25.28 567.96 25.04 570.89 C24.99 571.49 25.05 572.15
+							 25.18 572.47 C25.85 574.09 28.43 575.11 33.07 575.6 C35.2 575.82 47.22 575.84 49.46 575.61 L49.46 575.61
+							 ZM36.48 574.75 C34.33 574.68 31.46 574.36 29.9 574.01 C26.45 573.24 25.31 571.7 26.69 569.63 C28.12
+							 567.47 31.42 565.67 35.83 564.66 C37.74 564.22 38.52 563.62 38.86 562.36 C39.13 561.39 38.9 560.64 38.05
+							 559.65 C37.14 558.59 35.83 555.84 35.47 554.2 C35.11 552.57 35.1 549.94 35.44 548.66 C36.31 545.37 38.55
+							 543.66 41.75 543.82 C43.58 543.91 44.7 544.42 45.84 545.68 C47.02 547 47.44 548.26 47.54 550.76 C47.69
+							 554.52 46.99 556.57 44.34 560.24 C43.51 561.38 43.85 563.26 45.03 564.03 C45.27 564.19 46.04 564.44
+							 46.75 564.61 C52.11 565.82 55.94 568.21 56.64 570.77 C56.98 571.99 56.13 573 54.17 573.66 C51.36 574.61
+							 44.73 575.02 36.48 574.75 L36.48 574.75 ZM23.98 568.31 C23.98 567.96 23.81 567.93 21.76 567.8 C15.02
+							 567.41 13.14 566.33 15.24 564.07 C15.67 563.6 16.52 562.93 17.13 562.56 C18.3 561.87 20.8 561 21.61
+							 561 C21.91 561 22.34 560.74 22.8 560.28 C23.75 559.33 23.77 558.55 22.89 557.22 C21.28 554.78 20.66
+							 552.89 20.78 550.83 C20.88 549.18 21.3 548.22 22.37 547.26 C23.33 546.39 24.22 546.12 25.68 546.24 C27.13
+							 546.35 28.12 546.94 28.9 548.18 C30.27 550.35 30.09 552.83 28.33 555.9 C27.13 558 26.87 558.64 26.98
+							 559.19 C27.19 560.25 27.88 560.69 30.99 561.73 C33.95 562.71 34.37 562.75 34.22 561.99 C34.17 561.73
+							 33.5 561.41 31.39 560.69 C27.75 559.44 27.59 559.24 28.75 557.53 C29.58 556.31 30.5 554.16 30.75 552.89
+							 C31.3 550.07 30.35 547.31 28.36 546 C27.25 545.27 26.29 545.02 24.82 545.11 C21.85 545.29 19.86 547.44
+							 19.67 550.7 C19.53 553.02 20.2 555.2 21.77 557.58 C22.36 558.46 22.44 558.7 22.3 559.12 C22.17 559.48
+							 21.92 559.67 21.29 559.84 C16.86 561.11 15.12 562.07 13.89 563.93 C13.06 565.17 13.11 566.18 14.04 567.11
+							 C15.2 568.27 17.41 568.75 21.48 568.7 C23.85 568.68 23.98 568.66 23.98 568.31 L23.98 568.31 Z"
+						class="st13"/>
 			</g>
 		</g>
-		<g id="group1274-249" transform="translate(522.998,-204.455)" v:mID="1274" v:groupContext="group" v:layerMember="3">
+		<g id="group1274-244" transform="translate(539.532,-179.159)" v:mID="1274" v:groupContext="group" v:layerMember="3">
 			<title>Sheet.1274</title>
-			<g id="shape1275-250" v:mID="1275" v:groupContext="shape" v:layerMember="3">
+			<g id="shape1275-245" v:mID="1275" v:groupContext="shape" v:layerMember="3">
 				<title>path4596</title>
-				<path d="M25.42 594.98 C18.9 594.32 12.92 591.49 8.31 586.89 C4.36 582.93 1.85 578.32 0.65 572.75 C0.13 570.4 0 565.86
-							 0.37 563.35 C1.27 557.14 3.9 551.88 8.3 547.46 C12.56 543.2 18.09 540.42 24.05 539.55 C26.08 539.25
-							 29.9 539.25 31.92 539.55 C38 540.44 43.29 543.1 47.65 547.43 C52.49 552.23 55.29 558.34 55.81 565.23
-							 C56.81 578.35 48.02 590.7 35.28 594.1 C32.17 594.93 28.33 595.28 25.42 594.98 L25.42 594.98 ZM41.61
-							 581.36 C41.9 581.08 41.9 580.88 41.9 567.23 L41.9 553.4 L41.58 553.1 C41.27 552.8 41.14 552.8 29.01
-							 552.8 L16.76 552.8 L16.45 553.13 C16.28 553.31 16.09 553.68 16.02 553.96 C15.91 554.38 15.8 554.48 15.24
-							 554.65 C14.88 554.75 14.5 554.95 14.4 555.09 C14.14 555.45 14.14 559.82 14.4 560.17 C14.5 560.31 14.88
-							 560.51 15.24 560.62 L15.9 560.82 L15.94 567.27 L15.98 573.73 L15.43 573.83 C15.12 573.89 14.73 574.06
-							 14.55 574.23 C14.23 574.52 14.22 574.63 14.22 576.91 L14.22 579.29 L14.6 579.6 C14.82 579.76 15.14 579.9
-							 15.32 579.9 C15.71 579.9 15.88 580.09 16.11 580.81 C16.21 581.12 16.4 581.43 16.54 581.51 C16.69 581.6
-							 21.33 581.65 29.05 581.65 C41.13 581.66 41.32 581.65 41.61 581.36 L41.61 581.36 ZM17.03 580.75 C16.93
-							 580.65 16.85 580.43 16.85 580.26 C16.85 579.76 16.31 579.19 15.75 579.08 C15.46 579.03 15.17 578.87
-							 15.09 578.72 C15.01 578.57 14.95 577.7 14.95 576.77 C14.95 574.95 15.07 574.63 15.75 574.63 C15.93 574.63
-							 16.26 574.49 16.47 574.32 L16.85 574.02 L16.85 567.23 L16.85 560.44 L16.47 560.13 C16.26 559.97 15.9
-							 559.83 15.67 559.83 C15.06 559.83 14.95 559.48 14.95 557.63 C14.95 555.9 15.08 555.44 15.55 555.44 C16.19
-							 555.44 16.84 554.88 16.85 554.31 C16.86 553.5 16.3 553.53 29.01 553.53 C39.45 553.53 40.74 553.56 40.94
-							 553.76 C41.15 553.97 41.17 555.4 41.17 567.28 C41.17 577.42 41.13 580.61 41 580.75 C40.74 581 17.28
-							 581 17.03 580.75 L17.03 580.75 ZM38.53 578.43 C38.82 578.15 38.83 577.95 38.83 567.27 L38.83 556.41
-							 L38.51 556.07 L38.19 555.73 L28.74 555.73 L19.29 555.73 L18.95 556.05 L18.61 556.37 L18.61 567.25 C18.61
-							 577.95 18.62 578.15 18.91 578.43 C19.19 578.72 19.39 578.73 28.72 578.73 C38.05 578.73 38.25 578.72
-							 38.53 578.43 ZM19.5 577.71 C19.4 577.52 19.34 573.96 19.34 567.18 C19.34 558.05 19.37 556.9 19.57 556.69
-							 C19.78 556.49 20.81 556.46 28.72 556.46 C36.63 556.46 37.66 556.49 37.86 556.69 C38.06 556.89 38.09
-							 557.4 38.09 560.06 L38.09 563.2 L34.53 563.2 L30.97 563.2 L30.61 562.81 C30.42 562.6 29.93 562.27 29.53
-							 562.08 C27.35 561.06 24.81 562.39 24.65 564.65 C24.49 566.77 25.83 568.17 27.99 568.17 C29.06 568.17
-							 29.9 567.86 30.47 567.25 L30.82 566.86 L34.46 566.86 L38.09 566.86 L38.09 572.15 C38.09 575.51 38.04
-							 577.53 37.94 577.71 C37.8 577.99 37.54 577.99 28.72 577.99 C19.9 577.99 19.64 577.99 19.5 577.71 L19.5
-							 577.71 ZM33.65 574.6 C34.16 574.13 34.13 573.14 33.61 572.73 C32.72 572.04 31.5 572.59 31.5 573.69 C31.5
-							 574.46 31.96 574.92 32.73 574.92 C33.13 574.92 33.42 574.82 33.65 574.6 L33.65 574.6 ZM32.54 574.05
-							 C32.26 573.87 32.41 573.38 32.75 573.38 C32.93 573.38 33.06 573.49 33.09 573.69 C33.13 574.03 32.83
-							 574.23 32.54 574.05 L32.54 574.05 ZM27.11 567.21 C25.21 566.39 24.92 564.21 26.55 563.01 C27.03 562.65
-							 28.22 562.52 28.91 562.75 C29.55 562.96 30.26 563.74 30.46 564.43 C30.85 565.86 29.49 567.47 27.91 567.44
-							 C27.75 567.44 27.39 567.34 27.11 567.21 ZM31.28 565.03 L31.28 563.93 L34.69 563.93 L38.09 563.93 L38.09
-							 565.03 L38.09 566.13 L34.69 566.13 L31.28 566.13 L31.28 565.03 Z" class="st12"/>
+				<path d="M32.21 594.9 C23.94 594.07 16.36 590.48 10.53 584.65 C5.52 579.64 2.35 573.79 0.82 566.74 C0.17 563.76 0
+							 558.01 0.46 554.82 C1.61 546.96 4.94 540.3 10.52 534.7 C15.91 529.3 22.92 525.77 30.47 524.68 C33.05
+							 524.3 37.88 524.3 40.44 524.68 C48.14 525.81 54.85 529.17 60.37 534.65 C66.5 540.75 70.04 548.48 70.71
+							 557.22 C71.97 573.83 60.84 589.48 44.69 593.79 C40.75 594.84 35.89 595.28 32.21 594.9 L32.21 594.9 ZM52.72
+							 577.65 C53.08 577.29 53.09 577.03 53.09 559.75 L53.09 542.22 L52.68 541.84 C52.28 541.47 52.12 541.46
+							 36.75 541.46 L21.23 541.46 L20.84 541.88 C20.63 542.11 20.38 542.58 20.29 542.93 C20.16 543.47 20.01
+							 543.6 19.31 543.8 C18.85 543.94 18.38 544.19 18.25 544.37 C17.92 544.82 17.92 550.36 18.25 550.81 C18.38
+							 550.98 18.86 551.24 19.31 551.37 L20.15 551.62 L20.19 559.8 L20.24 567.98 L19.55 568.11 C19.16 568.18
+							 18.66 568.4 18.43 568.61 C18.03 568.98 18.01 569.12 18.01 572.01 L18.01 575.03 L18.5 575.41 C18.77 575.62
+							 19.18 575.8 19.41 575.8 C19.91 575.8 20.12 576.04 20.41 576.95 C20.54 577.34 20.78 577.73 20.95 577.83
+							 C21.14 577.94 27.03 578.01 36.8 578.02 C52.1 578.02 52.35 578.02 52.72 577.65 L52.72 577.65 ZM21.58
+							 576.87 C21.45 576.75 21.35 576.47 21.35 576.25 C21.35 575.62 20.67 574.89 19.95 574.76 C19.59 574.69
+							 19.22 574.49 19.12 574.3 C19.02 574.12 18.94 573 18.94 571.83 C18.94 569.52 19.09 569.11 19.95 569.11
+							 C20.18 569.11 20.59 568.94 20.86 568.73 L21.35 568.35 L21.35 559.74 L21.35 551.14 L20.86 550.76 C20.59
+							 550.54 20.14 550.37 19.85 550.37 C19.09 550.37 18.94 549.92 18.94 547.59 C18.94 545.38 19.1 544.8 19.7
+							 544.8 C20.52 544.8 21.34 544.09 21.35 543.38 C21.36 542.34 20.66 542.39 36.76 542.39 C49.98 542.39 51.61
+							 542.42 51.87 542.68 C52.13 542.94 52.16 544.75 52.16 559.81 C52.16 572.66 52.11 576.7 51.94 576.87 C51.61
+							 577.19 21.9 577.19 21.58 576.87 L21.58 576.87 ZM48.82 573.94 C49.18 573.57 49.19 573.32 49.19 559.8
+							 L49.19 546.03 L48.79 545.6 L48.38 545.17 L36.41 545.17 L24.44 545.17 L24.01 545.58 L23.58 545.98 L23.58
+							 559.77 C23.58 573.32 23.59 573.57 23.95 573.94 C24.31 574.3 24.57 574.31 36.38 574.31 C48.2 574.31 48.46
+							 574.3 48.82 573.94 ZM24.7 573.02 C24.57 572.79 24.51 568.27 24.51 559.68 C24.51 548.11 24.54 546.65
+							 24.8 546.39 C25.06 546.13 26.37 546.1 36.38 546.1 C46.4 546.1 47.71 546.13 47.97 546.39 C48.22 546.64
+							 48.26 547.29 48.26 550.66 L48.26 554.64 L43.75 554.64 L39.23 554.64 L38.78 554.15 C38.54 553.88 37.92
+							 553.46 37.41 553.22 C34.65 551.92 31.43 553.61 31.23 556.47 C31.03 559.16 32.72 560.94 35.46 560.94
+							 C36.82 560.94 37.88 560.54 38.6 559.77 L39.05 559.28 L43.66 559.28 L48.26 559.28 L48.26 565.97 C48.26
+							 570.23 48.19 572.8 48.07 573.02 C47.88 573.37 47.56 573.38 36.38 573.38 C25.21 573.38 24.89 573.37 24.7
+							 573.02 L24.7 573.02 ZM42.64 569.08 C43.27 568.48 43.24 567.24 42.58 566.72 C41.46 565.83 39.91 566.54
+							 39.91 567.93 C39.91 568.91 40.49 569.49 41.46 569.49 C41.97 569.49 42.34 569.36 42.64 569.08 L42.64
+							 569.08 ZM41.22 568.38 C40.87 568.16 41.07 567.54 41.49 567.54 C41.73 567.54 41.88 567.68 41.92 567.93
+							 C41.98 568.36 41.59 568.61 41.22 568.38 L41.22 568.38 ZM34.34 559.73 C31.94 558.68 31.57 555.92 33.63
+							 554.4 C34.25 553.94 35.75 553.78 36.63 554.07 C37.44 554.34 38.34 555.33 38.58 556.2 C39.08 558 37.36
+							 560.05 35.36 560.01 C35.16 560.01 34.7 559.88 34.34 559.73 ZM39.63 556.96 L39.63 555.57 L43.95 555.57
+							 L48.26 555.57 L48.26 556.96 L48.26 558.35 L43.95 558.35 L39.63 558.35 L39.63 556.96 Z" class="st12"/>
 			</g>
 		</g>
-		<g id="group1276-252" transform="translate(638.455,-204.455)" v:mID="1276" v:groupContext="group" v:layerMember="3">
+		<g id="group1276-247" transform="translate(685.805,-179.159)" v:mID="1276" v:groupContext="group" v:layerMember="3">
 			<title>Sheet.1276</title>
-			<g id="shape1277-253" v:mID="1277" v:groupContext="shape" v:layerMember="3">
+			<g id="shape1277-248" v:mID="1277" v:groupContext="shape" v:layerMember="3">
 				<title>path4637</title>
-				<path d="M25.42 594.98 C18.9 594.32 12.92 591.49 8.31 586.89 C4.36 582.93 1.85 578.32 0.65 572.75 C0.13 570.4 0 565.86
-							 0.37 563.35 C1.27 557.14 3.9 551.88 8.3 547.46 C12.56 543.2 18.09 540.42 24.05 539.55 C26.08 539.25
-							 29.9 539.25 31.92 539.55 C38 540.44 43.29 543.1 47.65 547.43 C52.49 552.23 55.29 558.34 55.81 565.23
-							 C56.81 578.35 48.02 590.7 35.28 594.1 C32.17 594.93 28.33 595.28 25.42 594.98 L25.42 594.98 ZM28.41
-							 572.42 C35.84 564.22 37.96 561.8 37.92 561.55 L37.87 561.22 L32.87 561.15 L27.87 561.08 L31.01 556.53
-							 C32.73 554.04 34.12 551.89 34.1 551.77 C34.07 551.59 33.42 551.55 29.51 551.52 L24.96 551.48 L21.56
-							 559.66 C19.7 564.16 18.17 567.98 18.17 568.16 L18.17 568.47 L21.98 568.47 C24.08 568.47 25.79 568.5
-							 25.79 568.54 C25.79 568.57 24.08 571.7 21.98 575.49 C19.89 579.28 18.17 582.51 18.17 582.68 C18.17 582.89
-							 18.27 582.98 18.51 582.98 C18.77 582.98 21.04 580.56 28.41 572.42 L28.41 572.42 ZM21.24 578.69 C23.23
-							 575.21 26.96 568.27 26.96 568.04 C26.96 567.75 26.87 567.74 23.09 567.71 L19.21 567.67 L22.37 560.05
-							 C24.1 555.86 25.57 552.38 25.63 552.32 C25.69 552.26 27.33 552.23 29.29 552.25 L32.84 552.29 L29.67
-							 556.87 C27.91 559.43 26.53 561.57 26.55 561.71 C26.6 561.93 27.04 561.96 31.54 561.99 C34.26 562.01
-							 36.48 562.06 36.48 562.1 C36.48 562.19 21.11 579.17 21.03 579.17 C20.99 579.17 21.09 578.95 21.24 578.69
-							 L21.24 578.69 Z" class="st12"/>
+				<path d="M32.21 594.9 C23.94 594.07 16.36 590.48 10.53 584.65 C5.52 579.64 2.35 573.79 0.82 566.74 C0.17 563.76 0
+							 558.01 0.46 554.82 C1.61 546.96 4.94 540.3 10.52 534.7 C15.91 529.3 22.92 525.77 30.47 524.68 C33.05
+							 524.3 37.88 524.3 40.44 524.68 C48.14 525.81 54.85 529.17 60.37 534.65 C66.5 540.75 70.04 548.48 70.71
+							 557.22 C71.97 573.83 60.84 589.48 44.69 593.79 C40.75 594.84 35.89 595.28 32.21 594.9 L32.21 594.9 ZM35.99
+							 566.32 C45.41 555.93 48.09 552.86 48.04 552.54 L47.98 552.13 L41.65 552.04 L35.31 551.95 L39.28 546.19
+							 C41.47 543.03 43.23 540.32 43.2 540.16 C43.16 539.92 42.34 539.88 37.39 539.84 L31.62 539.79 L27.32
+							 550.15 C24.96 555.85 23.02 560.7 23.02 560.92 L23.02 561.32 L27.85 561.32 C30.5 561.32 32.67 561.36
+							 32.67 561.4 C32.67 561.45 30.5 565.41 27.85 570.21 C25.19 575.01 23.02 579.11 23.02 579.31 C23.02 579.58
+							 23.14 579.69 23.45 579.69 C23.78 579.69 26.65 576.63 35.99 566.32 L35.99 566.32 ZM26.91 574.26 C29.44
+							 569.85 34.16 561.06 34.16 560.78 C34.16 560.41 34.05 560.4 29.25 560.35 L24.34 560.3 L28.34 550.65 C30.54
+							 545.34 32.4 540.93 32.47 540.86 C32.54 540.78 34.63 540.74 37.1 540.76 L41.6 540.81 L37.59 546.62 C35.36
+							 549.86 33.61 552.57 33.64 552.75 C33.69 553.03 34.26 553.07 39.96 553.11 C43.4 553.14 46.22 553.2 46.22
+							 553.25 C46.22 553.37 26.74 574.87 26.64 574.87 C26.6 574.87 26.72 574.6 26.91 574.26 L26.91 574.26 Z"
+						class="st12"/>
 			</g>
 		</g>
-		<g id="shape1278-255" v:mID="1278" v:groupContext="shape" v:layerMember="3" transform="translate(147.864,-137.008)">
+		<g id="shape1278-250" v:mID="1278" v:groupContext="shape" v:layerMember="3" transform="translate(64.2731,-93.7098)">
 			<title>Sheet.1278</title>
 			<desc>PRE-BREACH</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="228.024" cy="588" width="456.05" height="2.26772"/>
-			<path d="M0 595.28 L445.73 595.28" class="st26"/>
-			<rect v:rectContext="textBkgnd" x="201.691" y="582" width="52.6663" height="12.0001" class="st16"/>
-			<text x="201.69" y="591" class="st28" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>PRE-BREACH</text>		</g>
-		<g id="shape1279-263" v:mID="1279" v:groupContext="shape" v:layerMember="3" transform="translate(613.055,-137.008)">
+			<v:textRect cx="288.884" cy="588" width="577.77" height="2.26772"/>
+			<path d="M0 595.28 L567.45 595.28" class="st26"/>
+			<rect v:rectContext="textBkgnd" x="262.551" y="582" width="52.6663" height="12.0001" class="st16"/>
+			<text x="262.55" y="591" class="st28" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>PRE-BREACH</text>		</g>
+		<g id="shape1279-258" v:mID="1279" v:groupContext="shape" v:layerMember="3" transform="translate(653.626,-93.7098)">
 			<title>Sheet.1279</title>
 			<desc>POST-BREACH</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="52.6844" cy="588.283" width="105.37" height="1.98425"/>
-			<path d="M0 595.28 L95.05 595.28" class="st29"/>
-			<rect v:rectContext="textBkgnd" x="23.3849" y="582.283" width="58.5989" height="12.0001" class="st16"/>
-			<text x="23.38" y="591.28" class="st28" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>POST-BREACH</text>		</g>
+			<v:textRect cx="66.746" cy="588.283" width="133.5" height="1.98425"/>
+			<path d="M0 595.28 L123.17 595.28" class="st29"/>
+			<rect v:rectContext="textBkgnd" x="37.4466" y="582.283" width="58.5989" height="12.0001" class="st16"/>
+			<text x="37.45" y="591.28" class="st28" v:langID="4105"><v:paragraph v:horizAlign="1"/><v:tabList/>POST-BREACH</text>		</g>
 	</g>
 </svg>
